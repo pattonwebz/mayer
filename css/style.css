@@ -886,7 +886,8 @@ h3.jp-relatedposts-headline {
   .more-link-wrapper {
     padding-bottom: 0; }
 
-  #masthead #title #site-title {
+  #masthead #title #site-title,
+  #masthead #description #site-description {
     text-align: center; }
   #masthead #description #site-description {
     font-size:25px; }
