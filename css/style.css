@@ -889,7 +889,7 @@ h3.jp-relatedposts-headline {
   #masthead #title #site-title {
     text-align: center; }
   #masthead #description #site-description {
-    display: none; }
+    font-size:25px; }
 
   #sidebar {
     background: #ffffff; }
@@ -922,8 +922,6 @@ h3.jp-relatedposts-headline {
       text-align: center; } }
 @media (max-width: 640px) {
   #masthead #title #site-title {
-    font-size: 40px; }
-  #masthead #description #site-description {
     font-size: 40px; }
 
   #primary-wrapper #primary {
