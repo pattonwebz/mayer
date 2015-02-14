@@ -488,6 +488,20 @@ tr.odd {
           #primary-wrapper #primary #main .single-post .post-pagination p {
             margin: 0; }
 
+/* Page Templates
+ *
+ * @package    Mayer/css
+ * @since      1.9.1
+ *====================================*/
+.page-template-page-fullwidth #primary-wrapper #main {
+  padding-left: 0;
+  padding-right: 0;
+}
+.page-template-page-fullwidth #primary-wrapper #primary #main .page {
+  padding-left: 0;
+  padding-right: 0;
+}
+
 /* Pagination
  *
  * @package    Mayer/css
